@@ -1,0 +1,1 @@
+webpackJsonp([0],[,function(o,t){},function(o,t,n){"use strict";t.hello={template:n(4),controller:function(){this.hello="boo World!"}}},,function(o,t){o.exports="<h1>{{ $ctrl.hello }}</h1>\n"},function(o,t,n){"use strict";var l=n(0),e=n(2);n(1),t.app="app",l.module(t.app,[]).component("app",e.hello)}],[5]);
